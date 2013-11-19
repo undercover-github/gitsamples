@@ -1,4 +1,5 @@
 gitsamples
 ==========
-First commit after initial commit
+Sample repository to practice and test
+git commands and workflow.
 
